@@ -10,15 +10,15 @@
 
 - 🤝 I’m looking for help with **Front-End Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dev-Rohan1](https://github.com/Dev-Rohan1)
+- 👨‍💻 All of my projects are available at [https://github.com/dev-rohan2024](https://github.com/dev-rohan2024)
 
-- 📝 I regularly write articles on [https://github.com/Dev-Rohan1?tab=repositories](https://github.com/dev-rohan2024?tab=repositories)
+- 📝 I regularly write articles on [https://github.com/dev-rohan2024?tab=repositories](https://github.com/dev-rohan2024?tab=repositories)
 
 - 💬 Ask me about **Front-End Development**
 
-- 📫 How to reach me **mdrohanulhaquerohan368@gmail.com**
+- 📫 How to reach me **dev.rohan2024@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Dev-Rohan1](https://github.com/dev-rohan2024)
+- 📄 Know about my experiences [https://github.com/dev-rohan2024](https://github.com/dev-rohan2024)
 
 - ⚡ Fun fact **Programming is like magic**
 
