@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dev-Rohan1](https://github.com/Dev-Rohan1)
 
-- 📝 I regularly write articles on [https://github.com/Dev-Rohan1?tab=repositories](https://github.com/Dev-Rohan1?tab=repositories)
+- 📝 I regularly write articles on [https://github.com/Dev-Rohan1?tab=repositories](https://github.com/dev-rohan2024?tab=repositories)
 
 - 💬 Ask me about **Front-End Development**
 
 - 📫 How to reach me **mdrohanulhaquerohan368@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Dev-Rohan1](https://github.com/Dev-Rohan1)
+- 📄 Know about my experiences [https://github.com/Dev-Rohan1](https://github.com/dev-rohan2024)
 
 - ⚡ Fun fact **Programming is like magic**
 
